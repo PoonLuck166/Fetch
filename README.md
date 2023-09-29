@@ -7,7 +7,6 @@ This repository houses a real-time data processing pipeline using Kafka. The pip
 - [Installation & Setup](#installation--setup)
 - [Usage](#usage)
 - [Design Choices](#design-choices)
-- [Prerequisites](#prerequisites)
 
 ## Prerequisites
 
