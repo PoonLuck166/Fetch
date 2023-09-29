@@ -4,7 +4,6 @@ This repository houses a real-time data processing pipeline using Kafka. The pip
 
 ## Table of Contents
 
-- [Setup](#setup)
 - [Installation & Setup](#installation--setup)
 - [Usage](#usage)
 - [Design Choices](#design-choices)
